@@ -134,7 +134,7 @@
 ### 2、数据分析与爬虫
 
 - 数据科学入门       [百度云下载链接](https://pan.baidu.com/s/14xoJwA_tJck8-8QBXy9EoA)  密码:9rms
-- 用Python写网络爬虫       [百度云下载链接](https://pan.baidu.com/s/1n6fNguPIDvvu8iG_0uM4pA)  密码:r5dp
+- 用Python写网络爬虫       [百度云下载链接](https://pan.baidu.com/s/1n6fNguPIDvvu8iG_0uM4pA)  密码:r5dp （失效）
 - Python数据处理       [百度云下载链接](https://pan.baidu.com/s/1QTtLIQ2hqMjipvSsjf4m6g)  密码:o0tv
 - Python数据分析实战       [百度云下载链接](https://pan.baidu.com/s/1JmvXBi7Fw6Mm52Q7E8kkkQ)  密码:phi0
 - Python数据科学手册       [百度云下载链接](https://pan.baidu.com/s/1sJMO6gqxantGx3KbuA6iwQ)  密码:9a7o
